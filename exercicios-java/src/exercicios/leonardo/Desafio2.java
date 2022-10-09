@@ -8,7 +8,7 @@ public class Desafio2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-/*Desafio2: Receber 3 salários e calcular a média.
+/*Desafio 2: Receber 3 salários e calcular a média.
  			*O user pode digitar com separador vírgula ou ponto => Vou usar o
  			*método replaceAll()
  			*Temos que receber no formato de String e converter => Usei o 

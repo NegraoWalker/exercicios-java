@@ -7,7 +7,7 @@ public class Desafio3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-/*Desafio3:Resolver a equação abaixo:
+/*Desafio 3: Resolver a equação abaixo:
  * a = [6*(3+2)]^2
  * b = a/(3*2)
  * c = ((1-5)*(2-7))/2

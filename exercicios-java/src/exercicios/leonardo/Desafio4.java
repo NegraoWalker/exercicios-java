@@ -5,7 +5,7 @@ public class Desafio4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-/*
+/*Desafio 4:
  * Trabalho na terça (true/false)
  * Trabalho na quinta (true/false)
  * Se apenas um dos trabalhos for true => Comprar TV 32 pol e tomar sorvete
