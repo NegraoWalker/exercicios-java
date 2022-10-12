@@ -23,14 +23,14 @@ Valor a pagar: R$15.50
 		
 		
 		System.out.print("Informe o código da peça 1: ");
-		int peca1 = input.nextInt();
+//		int peca1 = input.nextInt();
 		System.out.print("Informe o número de peças da peça 1: ");
 		int numeroPecas1 = input.nextInt();
 		System.out.print("Informe o valor unitário da peça 1: ");
 		double valorUnitarioPeca1 = input.nextDouble();
 		
 		System.out.print("Informe o código da peça 2: ");
-		int peca2 = input.nextInt();
+//		int peca2 = input.nextInt();
 		System.out.print("Informe o número de peças da peça 2: ");
 		int numeroPecas2 = input.nextInt();
 		System.out.print("Informe o valor unitário da peça 2: ");
