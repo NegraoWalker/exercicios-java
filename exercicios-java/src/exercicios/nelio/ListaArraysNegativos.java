@@ -20,7 +20,7 @@ e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativ
 			System.out.println("Informe um número: ");
 			array[i] = input.nextInt();
 		}
-/*----------------------Sáida de dados-------------------------------*/
+/*----------------------Saída de dados-------------------------------*/
 		System.out.println("Números negativos: ");
 		for (int num : array) {
 			if (num < 0) {
